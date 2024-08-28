@@ -1,1 +1,4 @@
 IATI Datastore 
+
+Apache Solr
+
